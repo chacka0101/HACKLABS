@@ -1,2 +1,2 @@
 # HACKLABS
-Ethical Hacking Labs (HACKLABS)
+Hacking Labs (HACKLABS)
