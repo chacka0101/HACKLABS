@@ -3,7 +3,7 @@
 WEB Reference:
 
 ALL: https://www.amanhardikar.com/mindmaps/Practice.html
-WEBs de ACUENTIX: https://www.vulnhub.com
+ALL:: https://www.vulnhub.com
 WINGKLABS :https://github.com/SVelizDonoso/wingkalabs
 LAMP: https://www.vulnhub.com/series/lampsecurity,43/
 DVL: http://www.computersecuritystudent.com/SECURITY_TOOLS/DVL/lesson1/
@@ -11,3 +11,10 @@ Metasploitable 2: https://metasploit.help.rapid7.com/v1.1/docs/metasploitable-2
 Metasploitable 3: https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/
 Facebook CTF: Capture the Flag Platform: https://github.com/facebook/fbctf
 Reversing List: https://github.com/naivenom/reversing-list
+
+Acunetix Test Sites:
+
+- http://testphp.vulnweb.com
+- http://testasp.vulnweb.com
+- http://testaspnet.vulnweb.com
+- http://testhtml5.vulnweb.com
