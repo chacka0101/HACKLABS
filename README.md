@@ -1,2 +1,0 @@
-# HACKLABS
-Hacking Labs (HACKLABS)
